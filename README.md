@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [revanth-amamu.github.io](revanth-amamu.github.io)
+- 👨‍💻 All of my projects are available at https://revanth-amamu.github.io/
 
 - 📫 How to reach me **revanthamamu@gmail.com**
 
